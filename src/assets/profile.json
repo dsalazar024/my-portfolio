@@ -1,0 +1,31 @@
+{
+    "email": "dylan.salazar029@gmail.com",
+    "location": "Ciudad De Guatemala, Guatemala",
+    "name": "Dylan Salazar",
+    "phone": "",
+    "avatar": "assets/data/me.png",
+    "education": [
+      {
+        "title": "Ing. Ciencias y Sistemas",
+        "meta": "Universidad San Carlos de Guatemala,  Enero 2022 – Actualidad"
+      }
+    ],
+    "about": " ",
+    "socials": [
+      {
+        "name": "dylan.salazar024@gmail.com",
+        "link": "mailto:dylan.salazar024@gmail.com",
+        "icon": "fa fa-envelope"
+      },
+      {
+        "name": "Github",
+        "link": " ",
+        "icon": "fab fa-github"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/dylan-salazar-594994194/",
+        "icon": "fab fa-linkedin"
+      }
+    ]
+  }
